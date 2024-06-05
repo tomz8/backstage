@@ -56,7 +56,7 @@ spec:
   profile:
     displayName: Guest User
     email: guest@example.com
-  memberOf: [team-a]
+  memberOf: [administrator]
 ---
 # This user is added as an example, to make it more easy for the "Guest"
 # sign-in option to demonstrate some entities being owned. In a regular org,
